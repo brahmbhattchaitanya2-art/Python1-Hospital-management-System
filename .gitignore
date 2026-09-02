@@ -1,0 +1,22 @@
+
+# Environment Variables
+.env
+
+# Python Artifacts
+__pycache__/
+*.pyc
+venv/
+.env/
+build/
+dist/
+*.egg-info/
+
+# Streamlit
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# macOS
+.DS_Store
+
+# Logs
+*.log

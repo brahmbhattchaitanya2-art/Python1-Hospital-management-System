@@ -1,0 +1,87 @@
+[
+    {
+        "pid": 101,
+        "name": "dt",
+        "age": 10,
+        "contact": "123456689",
+        "blood_group": "AB+",
+        "medical_history": [
+            {
+                "date": "2025-12-07 17:12",
+                "disease": "Acute Viral Respiratory Infection (Influenza-Like Illness - ILI). The symptom profile is typical for a common cold or seasonal influenza.",
+                "details": " or Ibuprofen (NSAID) for fever, headache, and body aches., Saline nasal spray or decongestant (e.g., Pseudoephedrine) for nasal symptoms., Cough suppressant (e.g., Dextromethorphan) as needed for dry cough., Throat lozenges or gargle with warm salt water for sore throat.\n\nPlan: Supportive care and symptom management are recommended. The patient should prioritize rest and increased fluid intake to prevent dehydration. Use of over-the-counter medications to manage fever, pain, and congestion is advised. Monitor closely for signs of worsening condition, such as difficulty breathing, persistent high fever (>102\u00b0F), chest pain, or altered mental status, and seek immediate care if these symptoms develop. Avoid close contact with others to minimize transmission."
+            },
+            {
+                "date": "2025-12-07 17:17",
+                "disease": "Acute Viral Respiratory Infection (Influenza-Like Illness - ILI). Symptoms are consistent with a common cold or seasonal influenza.",
+                "details": "or Ibuprofen (e.g., Advil) for fever and body aches., Saline nasal spray or rinses for nasal congestion., Oral decongestant (e.g., Pseudoephedrine or Phenylephrine) if nasal symptoms are severe., Dextromethorphan (cough suppressant) for dry, irritating cough, if disrupting sleep., Throat lozenges or warm salt water gargles for sore throat.\n\nPlan: Supportive care and management of symptoms are recommended. The patient should continue to prioritize rest and maintain high fluid intake (water, broths, electrolyte solutions) to prevent dehydration. Over-the-counter medications should be used for symptomatic relief of fever, pain, and congestion. We recommend monitoring for signs of worsening illness, such as persistent high fever (over 102\u00b0F/38.9\u00b0C), difficulty breathing, chest pain, or symptoms lasting longer than 10-14 days, which might indicate a secondary bacterial infection. Avoid public settings where possible to reduce transmission."
+            },
+            {
+                "date": "2026-03-04",
+                "diagnosis": "Service Unavailable",
+                "treatment": "Rx: \n\nPlan: Manual Check Required",
+                "doctor_id": 201
+            },
+            {
+                "date": "2026-03-04",
+                "diagnosis": "Service Unavailable",
+                "treatment": "Rx: \n\nPlan: Manual Check Required",
+                "doctor_id": 201
+            },
+            {
+                "date": "2026-03-04",
+                "diagnosis": "Service Unavailable",
+                "treatment": "Rx: \n\nPlan: Manual Check Required",
+                "doctor_id": 201
+            }
+        ],
+        "current_status": "DISCHARGED",
+        "assigned_doctor_id": null
+    },
+    {
+        "pid": 102,
+        "name": "Derek",
+        "age": 19,
+        "contact": "1234567890",
+        "blood_group": "A+",
+        "medical_history": [
+            {
+                "date": "2026-02-09",
+                "diagnosis": "Acute Viral Syndrome, highly consistent with Influenza (Flu). The constellation of high fever, severe myalgia, headache, and fatigue are hallmark systemic symptoms of influenza, compounded by upper respiratory symptoms (cough, sore throat, congestion). Differential diagnosis includes COVID-19.",
+                "treatment": "Rx: Acetaminophen (e.g., Tylenol) or Ibuprofen (NSAID) for fever and body aches, Dextromethorphan (Cough Suppressant), Pseudoephedrine or Phenylephrine (Decongestant), Oseltamivir (Tamiflu) - Conditional: Only if testing positive for Influenza and symptoms started within 48 hours.\n\nPlan: Supportive care focused on symptom management, hydration, and rest. The patient must self-isolate immediately. Aggressive management of fever and body aches using NSAIDs or acetaminophen. Recommend immediate testing for Influenza A/B and SARS-CoV-2 (COVID-19) to confirm diagnosis and determine appropriate antiviral use. If confirmed as Influenza and symptom onset is less than 48 hours, antiviral medication may be initiated. Monitor for warning signs of complication, such as difficulty breathing, chest pain, confusion, or inability to keep fluids down.",
+                "doctor_id": 201
+            }
+        ],
+        "current_status": "ADMITTED",
+        "assigned_doctor_id": null
+    },
+    {
+        "pid": 103,
+        "name": "Chaitanya ",
+        "age": 19,
+        "contact": "6789067890",
+        "blood_group": "O+",
+        "medical_history": [
+            {
+                "date": "2026-02-09",
+                "diagnosis": "The constellation of unexplained weight loss, extreme fatigue, fever, skin changes (rashes, lesions, or paleness), and unusual bleeding or bruising is highly suggestive of a systemic hematologic malignancy, such as Acute Leukemia (e.g., AML or ALL), or potentially an advanced chronic condition like certain autoimmune diseases (e.g., SLE) or severe infections. Given the severity and multi-system involvement, especially the bleeding/bruising (indicating potential thrombocytopenia or coagulopathy) and fever/fatigue (suggesting bone marrow failure or infection), an immediate, urgent workup is required.",
+                "treatment": "Rx: Empiric Broad-Spectrum Antibiotics (e.g., Cefepime or Piperacillin/Tazobactam, based on local resistance patterns, if febrile and neutropenia is confirmed), Acetaminophen (for fever management), Antifungal prophylaxis (e.g., Fluconazole, pending risk assessment), Transfusion support (PRBCs for severe anemia, Platelets for severe thrombocytopenia/active bleeding)\n\nPlan: STAT complete blood count (CBC) with manual differential and peripheral smear. Immediate comprehensive metabolic panel (CMP), coagulation studies (PT/INR, aPTT), and lactate dehydrogenase (LDH). Type and screen (T&S) established due to potential need for emergent blood product transfusion (e.g., platelets, packed red blood cells). Blood cultures should be drawn immediately before administering any empiric broad-spectrum antibiotics, as these patients are often severely immunocompromised (neutropenic fever). Patient should be placed on strict isolation precautions. Consultation with Hematology/Oncology is urgent for definitive diagnosis (likely bone marrow biopsy/aspiration) and initiation of induction chemotherapy or supportive care.",
+                "doctor_id": 201
+            },
+            {
+                "date": "2026-02-27",
+                "diagnosis": "Suspected Systemic Hematologic Malignancy (Acute Myeloid Leukemia or Acute Lymphoblastic Leukemia) versus severe systemic infection or advanced autoimmune disease.",
+                "treatment": "Rx: Cefepime or Piperacillin/Tazobactam (Empiric Broad-Spectrum Antibiotics), Acetaminophen, Fluconazole (Antifungal Prophylaxis), Packed Red Blood Cells (PRBCs), Platelet Transfusion\n\nPlan: Immediate emergency admission for stabilizing care and diagnostic confirmation. Primary objectives include managing potential neutropenic fever with broad-spectrum antibiotics, correcting life-threatening cytopenias via transfusion, and securing a definitive diagnosis through bone marrow analysis. The patient must be placed on strict isolation precautions to prevent secondary infections and requires urgent evaluation by a Hematologist/Oncologist.",
+                "doctor_id": 201
+            },
+            {
+                "date": "2026-03-04",
+                "diagnosis": "Service Unavailable",
+                "treatment": "Rx: \n\nPlan: Manual Check Required",
+                "doctor_id": 201
+            }
+        ],
+        "current_status": "PENDING",
+        "assigned_doctor_id": null
+    }
+]

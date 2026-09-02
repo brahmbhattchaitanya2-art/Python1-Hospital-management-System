@@ -1,0 +1,37 @@
+[
+    {
+        "pid": 201,
+        "name": "Dr. Smith",
+        "age": 45,
+        "contact": "555-0199",
+        "role": "Doctor",
+        "shift_timing": "09:00-17:00",
+        "email": "dr.smith@hospital.com",
+        "password": "password123",
+        "specialization": "General Physician",
+        "available_slots": [
+            "09:00",
+            "10:00"
+        ]
+    },
+    {
+        "pid": 100,
+        "name": "System Admin",
+        "age": 30,
+        "contact": "N/A",
+        "role": "Admin",
+        "email": "admin@hospital.com",
+        "password": "admin123",
+        "shift_timing": "N/A"
+    },
+    {
+        "pid": 203,
+        "name": "dabang derek",
+        "age": 19,
+        "contact": "1234567890",
+        "role": "Staff",
+        "shift_timing": "",
+        "email": "dabang.derek@gmail.com",
+        "password": "12345"
+    }
+]

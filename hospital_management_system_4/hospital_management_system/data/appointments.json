@@ -1,0 +1,106 @@
+[
+    {
+        "appointment_id": 1001,
+        "patient_id": 101,
+        "doctor_id": 201,
+        "date_time": "2025-12-07 17:03:00",
+        "status": "Completed"
+    },
+    {
+        "appointment_id": 1002,
+        "patient_id": 101,
+        "doctor_id": 201,
+        "date_time": "2025-12-07 17:17:00",
+        "status": "Completed"
+    },
+    {
+        "appointment_id": 1003,
+        "patient_id": 101,
+        "doctor_id": 201,
+        "patient_name": "dt",
+        "doctor_name": "Dr. Smith",
+        "time_slot": "2025-12-07 18:20:00",
+        "status": "Completed"
+    },
+    {
+        "appointment_id": 1004,
+        "patient_id": 102,
+        "doctor_id": 201,
+        "patient_name": "Derek",
+        "doctor_name": "Dr. Smith",
+        "time_slot": "2025-12-07 18:37:00",
+        "status": "Completed"
+    },
+    {
+        "appointment_id": 1005,
+        "patient_id": 103,
+        "doctor_id": 201,
+        "patient_name": "Chaitanya ",
+        "doctor_name": "Dr. Smith",
+        "time_slot": "2026-02-09 00:30:00",
+        "status": "Completed"
+    },
+    {
+        "appointment_id": 1006,
+        "patient_id": 103,
+        "doctor_id": 201,
+        "patient_name": "Chaitanya ",
+        "doctor_name": "Dr. Smith",
+        "time_slot": "2026-02-09 17:05:00",
+        "status": "Completed"
+    },
+    {
+        "appointment_id": 1007,
+        "patient_id": 101,
+        "doctor_id": 201,
+        "patient_name": "dt",
+        "doctor_name": "Dr. Smith",
+        "time_slot": "2026-03-03 15:34:00",
+        "status": "Completed"
+    },
+    {
+        "appointment_id": 1008,
+        "patient_id": 101,
+        "doctor_id": 201,
+        "patient_name": "dt",
+        "doctor_name": "Dr. Smith",
+        "time_slot": "2026-03-04 18:38:00",
+        "status": "Completed"
+    },
+    {
+        "appointment_id": 1009,
+        "patient_id": 103,
+        "doctor_id": 201,
+        "patient_name": "Chaitanya ",
+        "doctor_name": "Dr. Smith",
+        "time_slot": "2026-03-04 18:38:00",
+        "status": "Scheduled"
+    },
+    {
+        "appointment_id": 1010,
+        "patient_id": 103,
+        "doctor_id": 201,
+        "patient_name": "Chaitanya ",
+        "doctor_name": "Dr. Smith",
+        "time_slot": "2026-03-04 18:38:00",
+        "status": "Scheduled"
+    },
+    {
+        "appointment_id": 1011,
+        "patient_id": 103,
+        "doctor_id": 201,
+        "patient_name": "Chaitanya ",
+        "doctor_name": "Dr. Smith",
+        "time_slot": "2026-03-04 18:38:00",
+        "status": "Completed"
+    },
+    {
+        "appointment_id": 1012,
+        "patient_id": 103,
+        "doctor_id": 201,
+        "patient_name": "Chaitanya ",
+        "doctor_name": "Dr. Smith",
+        "time_slot": "2026-03-04 18:38:00",
+        "status": "Scheduled"
+    }
+]
