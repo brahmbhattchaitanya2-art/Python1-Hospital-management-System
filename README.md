@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Smart Hospital Management System 🏥
 
@@ -1003,4 +1003,4 @@ If you found this project interesting, consider giving the repository a **⭐ St
 <p align="center">
   <strong>Built with ❤️ using Python, Streamlit, NumPy & Google Gemini</strong>
 </p>
->>>>>>> 2cf397fa49bf1404f19c02229811832d578cc3e0
+
